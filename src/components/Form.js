@@ -27,8 +27,8 @@ export default function Form() {
     <div>
       <h1>Basketball Team </h1>
       <form className='container'>
-        <label>Jersy no.</label><br></br>
-        <input type="number"   placeholder='Enter Jersy no.' onChange={(e) => setposition(e.target.value)} required></input><br></br>
+        <label>Jersey no.</label><br></br>
+        <input type="number"   placeholder='Enter Jersey no.' onChange={(e) => setposition(e.target.value)} required></input><br></br>
         <label>Player</label><br></br>
         <input type="text"   placeholder='Enter Name' onChange={(e) => setplayer(e.target.value)} required></input><br></br>
         <label >Rating</label><br></br>

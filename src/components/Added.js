@@ -15,7 +15,7 @@ export default function Added() {
       <table>
         <thead>
           <tr>
-            <th>Jersy no.</th>
+            <th>Jersey no.</th>
             <th>Players</th>
             <th>Ratings</th>
             <th>Age</th>
